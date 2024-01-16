@@ -4,3 +4,4 @@ dsscfs
 vd
 vvs
 dfbd
+editing the content of sample file 2.txt from feature 1 branch
